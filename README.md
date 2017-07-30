@@ -1,16 +1,12 @@
-## MIDI Interface Board サポートページ
+## 省エネLED実験キット サポートページ
 
-この度は、MIDI Interface Board （生基板）をお買い上げいただき、ありがとうございました。
+この度は、省エネLED実験キットをお買い上げいただき、ありがとうございました。
 
 このページで、組立説明書をダウンロードいただけます。
 
 ## 組立説明書
 
-お手持ちのボードのバージョンに対応した説明書をダウンロードください。
-
-[Version 1.0](https://github.com/dwt98/MIF/raw/master/MIDI_IF_Build_Guide_Ver1.0.pdf)
-
-[Version 1.1](https://github.com/dwt98/MIF/raw/master/MIDI_IF_Build_Guide_Ver1.1.pdf)
+[省エネLED実験キット 説明書](https://github.com/dwt98/JTX/raw/master/led_jikken_kit.pdf)
 
 ## お問い合わせ
 
